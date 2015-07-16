@@ -16,7 +16,7 @@ and call the diffetent classes on the DOM element you want to shake...
 <pre>&lt;div class="shake shake-slow"&gt;&lt;/div&gt;</pre>
 <pre>&lt;div class="shake shake-little"&gt;&lt;/div&gt;</pre>
 <pre>&lt;div class="shake shake-horizontal"&gt;&lt;/div&gt;</pre>
-<pre>&lt;div class="shake shake.vertical"&gt;&lt;/div&gt;</pre>
+<pre>&lt;div class="shake shake-vertical"&gt;&lt;/div&gt;</pre>
 <pre>&lt;div class="shake shake-rotate"&gt;&lt;/div&gt;</pre>
 <pre>&lt;div class="shake shake-opacity"&gt;&lt;/div&gt;</pre>
 <pre>&lt;div class="shake shake-crazy"&gt;&lt;/div&gt;</pre>
